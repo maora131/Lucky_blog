@@ -6,6 +6,7 @@
 <li>En routes.yaml, se hace que el LuckyController aparezca en la página de inicio. <br>
 <li>Se instaló el paquete de twig requerido. <br>
 <li>Y por último se cargaron las templates.
+ Tutorial: https://symfony.com/doc/5.4/page_creation.html#creating-a-page-route-and-controller
  
 
 
