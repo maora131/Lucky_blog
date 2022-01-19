@@ -5,7 +5,7 @@
 <li>Luego se creo el controlador LuckyController para generar el número de la suerte. <br>
 <li>En routes.yaml, se hace que el LuckyController aparezca en la página de inicio. <br>
 <li>Se instaló el paquete de twig requerido. <br>
-<li>Y por último se cargaron las templates.
+<li>Y por último se cargaron las templates.<br>
  Tutorial: https://symfony.com/doc/5.4/page_creation.html#creating-a-page-route-and-controller
  
 
