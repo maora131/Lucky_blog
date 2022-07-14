@@ -1,4 +1,4 @@
-# Creación de una página con symfony (número de la suerte)
+# Creación de una página con symfony (número de la suerte).
 
 <li>Creación de una página de symfony mediante la terminal.<br>
 <li>A continuación se instalaron todos los packages necesarios.<br>
